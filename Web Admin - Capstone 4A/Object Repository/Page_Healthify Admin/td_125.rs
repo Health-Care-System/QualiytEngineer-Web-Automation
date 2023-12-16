@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_125</name>
+   <tag></tag>
+   <elementGuidId>23b36b6e-307b-41c9-8ce8-d41f8e9dc36c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div/div/div[2]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e4eab5ec-6432-4fc4-8045-fc5882296141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>125</value>
+      <webElementGuid>c5b4130e-272a-45a2-bc87-0a7b09b4aa4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;mx-4 d-flex flex-column gap-4&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 border&quot;]/div[@class=&quot;table-responsive table-wrapper&quot;]/table[@class=&quot;table table-borderless table-striped align-middle&quot;]/tbody[1]/tr[@class=&quot;text-nowrap&quot;]/td[1]</value>
+      <webElementGuid>d92077a8-6277-4729-9748-be23a98f6ca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>04a731bb-fbb5-4900-91a0-02c15fe59d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[1]</value>
+      <webElementGuid>7c07e11b-5b44-44db-874f-4f1e9a8c2c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gambar'])[1]/following::td[1]</value>
+      <webElementGuid>f295cd73-3272-43e8-8b93-e80c6d001552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manual transfer bca'])[1]/preceding::td[3]</value>
+      <webElementGuid>21917427-b74e-418e-9cb7-0013594edf67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 700.000'])[1]/preceding::td[4]</value>
+      <webElementGuid>3123e636-4858-4a81-b11e-6e1fe5e92283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='125']/parent::*</value>
+      <webElementGuid>4e110e34-a6e8-4e6e-bf8b-3b92fe32d878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>8e1c207c-a2a4-4707-98dd-54ecb973527b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '125' or . = '125')]</value>
+      <webElementGuid>c71378c2-b09c-4f5d-95ae-e01c4ee5ae84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

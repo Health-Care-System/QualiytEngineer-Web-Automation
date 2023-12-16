@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin reject payment confirmation med transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f29de1a2-7191-4b87-ae1c-ecbe8ab3c180</testCaseGuid>
+</TestCaseEntity>

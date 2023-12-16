@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Unggah FotoHapus FotoNamaEmailPasswordJ_9a45d8</name>
+   <tag></tag>
+   <elementGuidId>1dc508b4-b4cf-4ad8-a50d-921b9f0e0326</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3157a010-f886-4e67-9526-dd56f41609f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-3 d-flex flex-column flex-lg-row align-items-center align-items-lg-start justify-content-lg-center gap-3  </value>
+      <webElementGuid>78167d15-15d1-489d-825b-e0b757ce65a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah FotoHapus FotoNamaEmailPasswordJenis KelaminPriaWanitaSpesialisChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis BedahHarga KonsultasiPengalaman KerjaAlumnusNomor STRNomor STR wajib diisi!</value>
+      <webElementGuid>78363b10-a096-4b2b-9831-53a93254fd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;my-3 d-flex flex-column flex-lg-row align-items-center align-items-lg-start justify-content-lg-center gap-3&quot;]</value>
+      <webElementGuid>50d5adf5-4da0-4b71-84dc-4e6830e29099</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div</value>
+      <webElementGuid>6bbbcae3-dc75-4ed1-8501-262582bc3a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Dokter'])[1]/following::div[6]</value>
+      <webElementGuid>4a16d009-f7ab-483d-92de-f3c7ba20383c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokter'])[1]/following::div[9]</value>
+      <webElementGuid>eb3fece1-e5aa-4ea5-8b8f-2d84c78f8b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>c42f159e-3e38-4e92-84f2-ca81beae2933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unggah FotoHapus FotoNamaEmailPasswordJenis KelaminPriaWanitaSpesialisChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis BedahHarga KonsultasiPengalaman KerjaAlumnusNomor STRNomor STR wajib diisi!' or . = 'Unggah FotoHapus FotoNamaEmailPasswordJenis KelaminPriaWanitaSpesialisChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis BedahHarga KonsultasiPengalaman KerjaAlumnusNomor STRNomor STR wajib diisi!')]</value>
+      <webElementGuid>10bcc920-5baa-481c-81d6-d914c012ece3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

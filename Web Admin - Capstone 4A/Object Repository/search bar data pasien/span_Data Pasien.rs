@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Data Pasien</name>
+   <tag></tag>
+   <elementGuidId>85bf6b09-0d53-4811-92c8-41c2d2397358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.false</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/nav/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f364402-3f6d-4625-bce1-0b6544a4bbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a8fdec9f-113d-4d2f-9b72-b19f6fc72443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Pasien</value>
+      <webElementGuid>afa40e0e-37f3-430e-b00c-2d5ab20b073e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;mx-4 d-flex flex-column gap-4&quot;]/nav[@class=&quot;d-inline-flex gap-5&quot;]/a[@class=&quot;text-decoration-none text-black-50 fs-2 fw-semibold&quot;]/span[@class=&quot;false&quot;]</value>
+      <webElementGuid>60e5b4f5-8ee7-482c-8721-48294bde5d5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/nav/a[2]/span</value>
+      <webElementGuid>1bcf4971-b8d8-4cbe-a93a-9b495ddb3342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Transaksi'])[1]/following::span[1]</value>
+      <webElementGuid>b4856dc4-7da7-42ab-bd42-f4aba4b342b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Pasien'])[1]/following::span[2]</value>
+      <webElementGuid>e6dc02da-1bf4-41b9-870c-ff2692dde45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Konsultasi Dokter'])[1]/preceding::span[1]</value>
+      <webElementGuid>baafe625-cce0-4032-947a-0ccf6018a79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>bfd8dbdb-cc2f-4676-bd7f-7f74830faf11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Pasien']/parent::*</value>
+      <webElementGuid>118251c6-b541-4e7c-94e3-12923e4a39b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>8f56bc68-7b7f-442c-ae8a-eb886ff64414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Data Pasien' or . = 'Data Pasien')]</value>
+      <webElementGuid>884cf520-8184-4064-ba74-c895db4f342d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

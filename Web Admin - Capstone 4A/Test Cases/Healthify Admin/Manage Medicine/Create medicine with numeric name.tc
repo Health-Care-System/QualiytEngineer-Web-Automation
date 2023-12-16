@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create medicine with numeric name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b18315fb-942b-4216-9fb5-130edbf8876d</testCaseGuid>
+</TestCaseEntity>

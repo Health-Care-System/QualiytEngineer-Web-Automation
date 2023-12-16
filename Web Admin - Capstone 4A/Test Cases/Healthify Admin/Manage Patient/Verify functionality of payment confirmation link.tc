@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify functionality of payment confirmation link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d53dc10a-e89c-426c-a6e2-50b012a40d68</testCaseGuid>
+</TestCaseEntity>

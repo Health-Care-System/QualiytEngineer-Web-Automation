@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Semua</name>
+   <tag></tag>
+   <elementGuidId>12086f34-8d69-4a70-8df8-cd2dad4cb410</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-decoration-none.fw-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>195e884c-6518-430e-895e-20b4d2c3984a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-decoration-none fw-semibold</value>
+      <webElementGuid>54ff40b0-2df5-4a40-893b-a3b5f6c29798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/patients/data</value>
+      <webElementGuid>aedab524-98a5-43c4-b8cb-33f0efcd6c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>c24c69a7-156f-46b0-8ea1-0afe3591bc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;d-flex flex-column gap-4 mx-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-8 col-xxl-9 mb-4 mb-xl-0&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 border&quot;]/div[@class=&quot;d-flex flex-column flex-md-row justify-content-md-between align-items-md-center mb-4&quot;]/a[@class=&quot;text-decoration-none fw-semibold&quot;]</value>
+      <webElementGuid>203c3d12-491f-4223-9a60-cbd1ef2e8db7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/div/div/div/div/a</value>
+      <webElementGuid>8ed7e234-2982-4f1a-b043-2c871fb63bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Semua')]</value>
+      <webElementGuid>c1b3e192-0a47-41cb-b413-31b76a1aec2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pasien'])[1]/following::a[1]</value>
+      <webElementGuid>5915a9ec-10d4-452f-a7fd-c4498960fb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::a[1]</value>
+      <webElementGuid>09ba56bc-9396-431f-9e43-3db2f5955d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::a[1]</value>
+      <webElementGuid>57bb394f-c6fd-49cc-92e4-c99d910b2473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::a[1]</value>
+      <webElementGuid>cec462bb-6d37-4274-8229-036ede76de97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Semua']/parent::*</value>
+      <webElementGuid>cdf39781-1d06-4385-88fc-b76cf7ee60ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/patients/data')]</value>
+      <webElementGuid>14d615be-69df-4772-ab31-7106857baa87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>dba6ea80-44d2-4b3d-b0e5-f6121c82c15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/patients/data' and (text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>08b689ea-56fd-4d3d-b2c8-f6c79c8c97ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

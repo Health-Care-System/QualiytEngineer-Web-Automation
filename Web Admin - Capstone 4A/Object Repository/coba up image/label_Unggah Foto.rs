@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Unggah Foto</name>
+   <tag></tag>
+   <elementGuidId>0c96b905-92c9-4a37-8b03-bc4dd4d72a3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.text-black.bg-light.text-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[5]/div/div/div[2]/div/div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fb834a0d-8add-4488-93ae-0381b7c598f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>fileWhite</value>
+      <webElementGuid>13cd1c44-40ed-4e87-a096-bddc6d91429c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black bg-light text-nowrap</value>
+      <webElementGuid>9a318e1e-232d-4492-92c7-25405b425045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah Foto</value>
+      <webElementGuid>69e28a13-8696-49be-9cf5-31bc7530d1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content rounded-4 border-0&quot;]/div[@class=&quot;modal-body px-5&quot;]/div[@class=&quot;position-relative&quot;]/div[@class=&quot;d-flex flex-column shadow rounded-2 p-2 edit-btn-wrapper&quot;]/div[@class=&quot;text-center&quot;]/label[@class=&quot;text-black bg-light text-nowrap&quot;]</value>
+      <webElementGuid>dd0b7e51-5923-43e8-a4f1-6b74c3154cf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[5]/div/div/div[2]/div/div[3]/div/label</value>
+      <webElementGuid>783798e6-d976-4cde-8cda-b101deefece7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Foto'])[1]/following::label[1]</value>
+      <webElementGuid>2d6bbaf3-b23c-4889-8392-aaf50cc40298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Produk'])[1]/following::label[1]</value>
+      <webElementGuid>39fb9f76-9b45-474e-9183-58155651f926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Foto'])[1]/preceding::label[1]</value>
+      <webElementGuid>9c48e639-f663-4589-ba76-1acc2089a235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode'])[2]/preceding::label[1]</value>
+      <webElementGuid>461e9e5a-75f9-422e-b3d0-034183d2ca3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unggah Foto']/parent::*</value>
+      <webElementGuid>511f7790-08be-413c-8749-14005c5bb526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>42eefbaa-b32b-4206-b470-e5777d387d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Unggah Foto' or . = 'Unggah Foto')]</value>
+      <webElementGuid>36897f1a-85b9-4975-8f9a-7a4f7bc4aeca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

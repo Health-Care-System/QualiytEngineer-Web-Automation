@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Dokter</name>
+   <tag></tag>
+   <elementGuidId>94be28ac-9196-4536-b053-e9641af53c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.bg-primary.text-white.fw-semibold.d-flex.gap-1.rounded-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3dc1f3cc-8f3c-4410-94a2-7b9fe6fd9099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e1567b3-9069-4f90-8af3-b41ba63e5afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn bg-primary text-white fw-semibold d-flex gap-1 rounded-3</value>
+      <webElementGuid>72f32e0b-4ab0-4cf4-aff7-61beea725b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Dokter</value>
+      <webElementGuid>6d6a150a-0f6f-4f98-95af-670e2c4a9285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;m-3&quot;]/div[@class=&quot;card rounded-4 border&quot;]/div[@class=&quot;card-body bg-light rounded-4 p-4 border-0&quot;]/div[@class=&quot;d-flex flex-row justify-content-between&quot;]/a[@class=&quot;card-subtitle d-flex gap-2 float-start float-md-end text-decoration-none mb-2&quot;]/button[@class=&quot;btn bg-primary text-white fw-semibold d-flex gap-1 rounded-3&quot;]</value>
+      <webElementGuid>caef5c62-fbcf-494c-b29b-47b69a661b7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>6955f4f2-7804-4711-a771-2c8af70cec52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div/div/div/a/button</value>
+      <webElementGuid>798f5397-8a44-47e4-8414-faf6d36c69e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Dokter'])[1]/following::button[1]</value>
+      <webElementGuid>73e8de89-e433-40db-925b-e96cbdc2212e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Dokter'])[1]/following::button[3]</value>
+      <webElementGuid>0c843fa8-f1a9-471b-9f1b-c0b0f3ff3eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca13bc8a-5107-46d1-996b-f50c68a3d034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::button[1]</value>
+      <webElementGuid>20bae76c-ddea-446c-ab0f-96aac9f548f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Dokter']/parent::*</value>
+      <webElementGuid>af12762b-b3a0-45dc-b0a4-ce127c7672fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>0d7f72a2-8a01-4568-815f-02e5c3ed8b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Dokter' or . = 'Tambah Dokter')]</value>
+      <webElementGuid>bfe7e046-3410-42ae-a375-e6fa1b247d6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

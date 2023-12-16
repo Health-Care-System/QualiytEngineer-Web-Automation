@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bagus</name>
+   <tag></tag>
+   <elementGuidId>cda5d71a-67b3-4181-927e-f9161fc4e549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div/div/div/div[2]/table/tbody/tr[5]/td[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e174246-136f-4d3f-b7f6-40cd75a224de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex gap-2 align-items-center </value>
+      <webElementGuid>0a5e50f0-1421-4b4a-b3e7-f011bcc54361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bagus</value>
+      <webElementGuid>cd2152b0-2c00-4090-b862-e1e7b7ed6816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;m-3&quot;]/div[@class=&quot;card rounded-4 border&quot;]/div[@class=&quot;card-body bg-light rounded-4 p-4 border-0&quot;]/div[@class=&quot;table-responsive table-wrapper&quot;]/table[@class=&quot;table table-borderless table-striped align-middle&quot;]/tbody[1]/tr[@class=&quot;text-nowrap cursor-pointer&quot;]/td[2]/div[@class=&quot;d-flex gap-2 align-items-center&quot;]</value>
+      <webElementGuid>c6218d8a-1e67-4cf3-8d82-eaa0461a3515</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div/div/div[2]/table/tbody/tr[5]/td[2]/div</value>
+      <webElementGuid>f1bd0775-ad02-4e6f-bf3a-e334bc2dfdf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gigi'])[2]/following::div[1]</value>
+      <webElementGuid>a934796b-870a-4516-b9c7-7c50910e4019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='doktergigi17@gmail.com'])[1]/following::div[1]</value>
+      <webElementGuid>b0a32bd2-49a1-47ef-aeb6-6c3c736c3aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki-Laki'])[2]/preceding::div[2]</value>
+      <webElementGuid>65eab1d0-6af6-4872-8468-965daca2f35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='babababe@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>0fd6d837-76d2-4c8b-beb2-e39b4a30fdb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/div</value>
+      <webElementGuid>6607103d-1ca8-424c-a20d-1c505ce5adfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bagus' or . = 'Bagus')]</value>
+      <webElementGuid>68a5bbbf-d114-4a62-a07e-764f361f550a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

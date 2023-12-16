@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ChooseDokter UmumSpesialis AnakDokte_7dbaf5</name>
+   <tag></tag>
+   <elementGuidId>49a627d4-aafc-4d40-a89a-676460d200bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;specialist&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='specialist']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>22862fd6-a749-41b6-8456-b1e0dc57be58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>specialist</value>
+      <webElementGuid>54daab15-a412-455a-b724-0fb27aa48748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select p-3 col-12 col-lg input-styles</value>
+      <webElementGuid>f569e9aa-14c5-454e-ad94-1b09147a9301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Default select example</value>
+      <webElementGuid>e4b880ba-c306-446c-8c5a-2720bcb87664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis Bedah</value>
+      <webElementGuid>60a4edcd-7841-4fba-9719-7df04eaad820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;my-3 d-flex flex-column flex-lg-row align-items-center align-items-lg-start justify-content-lg-center gap-3&quot;]/div[@class=&quot;d-grid list-input pt-1&quot;]/form[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;row align-items-md-center gap-2&quot;]/select[@class=&quot;form-select p-3 col-12 col-lg input-styles&quot;]</value>
+      <webElementGuid>3abd0bf8-0cda-4a7b-b538-91cd3956aa8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='specialist']</value>
+      <webElementGuid>103bf4d2-461d-42ae-b01b-76f504d4a327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div[2]/form/div[9]/select</value>
+      <webElementGuid>a3b37760-19f5-4105-9a6f-7678d4762701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spesialis'])[1]/following::select[1]</value>
+      <webElementGuid>487d51ce-4a7e-41a6-9471-8de6c30d678e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wanita'])[1]/following::select[1]</value>
+      <webElementGuid>050e5920-1929-4ca2-a8b2-308db02c3ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Konsultasi'])[1]/preceding::select[1]</value>
+      <webElementGuid>f0c6109b-456e-40f9-85ab-bc31d4fd9b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman Kerja'])[1]/preceding::select[1]</value>
+      <webElementGuid>fd84e4d8-27ea-4bbb-ba0f-ef5ad46c7726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c1b3b12a-1ec0-4d8a-9a7e-7e4215582b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'specialist' and (text() = 'ChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis Bedah' or . = 'ChooseDokter UmumSpesialis AnakDokter KulitPsikolog KlinisDokter JantungDokter GigiDokter MataSpesialis Bedah')]</value>
+      <webElementGuid>9cadbc69-e696-4ae0-86b8-1577ef8bf881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

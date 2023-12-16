@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tambah Produk Baru_me-2</name>
+   <tag></tag>
+   <elementGuidId>60e085f4-041d-4de2-832a-f3216544f54d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.me-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/div/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>db4624a7-c9f7-4095-af1d-c1f96c9334e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/count_plus-8b1e7718.svg</value>
+      <webElementGuid>e405cd55-54ac-4331-9892-3825921dab45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>me-2</value>
+      <webElementGuid>359345ba-8317-474a-99ea-420f04a088f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 undefined&quot;]/div[@class=&quot;d-flex flex-column flex-md-row gap-3 gap-md-0 justify-content-md-between align-items-md-center mb-4&quot;]/button[@class=&quot;btn btn-primary rounded-3 btn-md text-white&quot;]/img[@class=&quot;me-2&quot;]</value>
+      <webElementGuid>621b2ef9-6d2a-40b3-8aa7-e3fab1a47dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/div/button/img</value>
+      <webElementGuid>b04877d4-39a9-4256-ad8c-5bad09677d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/img</value>
+      <webElementGuid>d1fef6ea-38cc-427f-89ee-e5fbd3a5fa76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/count_plus-8b1e7718.svg']</value>
+      <webElementGuid>963c5980-ebd7-4177-b5e6-31c38db3d885</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

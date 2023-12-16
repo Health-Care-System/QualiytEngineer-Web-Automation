@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_50</name>
+   <tag></tag>
+   <elementGuidId>376cbf5c-67be-4627-b05b-498149f12189</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.text-capitalize.text-nowrap.cursor-pointer > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div/div[2]/div[2]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>94f20a84-9280-4648-b26c-069b0f1777df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>6d5b7499-c66d-4a1c-92b8-bd1d25075cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;mx-4 d-flex flex-column gap-4&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 border&quot;]/div[@class=&quot;table-responsive table-wrapper&quot;]/table[@class=&quot;table table-borderless table-striped align-middle&quot;]/tbody[1]/tr[@class=&quot;text-capitalize text-nowrap cursor-pointer&quot;]/td[1]</value>
+      <webElementGuid>6dec7c47-c6ec-4028-baae-31ccd0bfb3e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div[2]/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>6397147a-2594-4219-ba5e-47e821b253e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::td[1]</value>
+      <webElementGuid>1b4c5eb2-6daf-4fbd-8952-4a67327d80dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tgl Transaksi'])[2]/following::td[1]</value>
+      <webElementGuid>9fb279de-ec08-4b1c-bf69-dac9420a2c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manual transfer bca'])[2]/preceding::td[2]</value>
+      <webElementGuid>0ca78757-2598-4673-b2bb-12553d3a071e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 9.000'])[1]/preceding::td[3]</value>
+      <webElementGuid>483cbe94-8790-4e82-ad7c-0faa072857eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='50']/parent::*</value>
+      <webElementGuid>14204b5e-c4fd-4216-b9fb-c054bfb5ee87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>cdf995af-9355-47b2-8555-65a42ee06d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '50' or . = '50')]</value>
+      <webElementGuid>1ebf939c-be2d-4dab-9557-520515dbcb85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create medicine with numeric brand</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de8106ec-7310-45ba-b385-e2c0a50576aa</testCaseGuid>
+</TestCaseEntity>

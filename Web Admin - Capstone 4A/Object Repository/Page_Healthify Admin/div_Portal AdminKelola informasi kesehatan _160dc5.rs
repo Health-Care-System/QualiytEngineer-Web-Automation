@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Portal AdminKelola informasi kesehatan _160dc5</name>
+   <tag></tag>
+   <elementGuidId>8bc9458d-c0d8-423e-bc05-0b7fdf0ccbfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9f2510f-862b-4e3c-bb83-71ffee0d4d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-5</value>
+      <webElementGuid>52f25468-f5c9-462a-b3a6-1152e8e29abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Portal AdminKelola informasi kesehatan dengan aman, Silahkan masuk untuk melanjutkan!EmailPasswordPassword harus memiliki setidaknya 8 karakter!Lupa Kata SandiMasuk</value>
+      <webElementGuid>a3099540-65fb-4cd5-9d91-23e013ce0201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row h-100 align-items-center&quot;]/div[@class=&quot;col-lg-5&quot;]</value>
+      <webElementGuid>fa5cbcef-d678-40a7-a58b-b697d69a2d6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]</value>
+      <webElementGuid>e230a426-abaa-4bf5-b349-a683f205d648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>388fe702-9b6b-4baf-88a4-34012078fe74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Portal AdminKelola informasi kesehatan dengan aman, Silahkan masuk untuk melanjutkan!EmailPasswordPassword harus memiliki setidaknya 8 karakter!Lupa Kata SandiMasuk' or . = 'Portal AdminKelola informasi kesehatan dengan aman, Silahkan masuk untuk melanjutkan!EmailPasswordPassword harus memiliki setidaknya 8 karakter!Lupa Kata SandiMasuk')]</value>
+      <webElementGuid>b635f85c-f93d-41af-9f69-c9f0544029a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

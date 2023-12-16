@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dokter</name>
+   <tag></tag>
+   <elementGuidId>6d34b7b2-3cd4-46f5-9f43-6bfeb24f01c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/aside/ul/li[4]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10feed7f-7bf5-4b1c-96d5-8cffbd63a465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>false text-primary d-flex navBtn btn</value>
+      <webElementGuid>3b1a5d77-3745-45c4-8270-4f7d2ca07f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dokter</value>
+      <webElementGuid>f8295116-7b29-4716-af2a-18a35a25071b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;d-none d-md-flex&quot;]/aside[@class=&quot;sidebar&quot;]/ul[@class=&quot;list-group gap-2 mt-3&quot;]/li[@class=&quot;list-unstyled&quot;]/a[@class=&quot;text-decoration-none&quot;]/div[@class=&quot;false text-primary d-flex navBtn btn&quot;]</value>
+      <webElementGuid>66e0c15c-f44b-4e73-b3f4-8cff3992b519</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/aside/ul/li[4]/a/div</value>
+      <webElementGuid>5275eb80-87f4-4df2-baf9-f6ae31962f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasien'])[1]/following::div[1]</value>
+      <webElementGuid>69d607ae-b6a1-45b0-8d38-389ff32f2fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obat - obatan'])[1]/following::div[2]</value>
+      <webElementGuid>c8d5388c-f9e5-4fcc-a14f-6db691788d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::div[1]</value>
+      <webElementGuid>bbc76ac7-32b5-4ad9-837b-dba31c2ea498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[1]/preceding::div[2]</value>
+      <webElementGuid>2564d973-0437-4e75-a378-6c4145c8949c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dokter']/parent::*</value>
+      <webElementGuid>93c31b96-3d5e-4d93-a0b6-730d15787052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>51ca81c8-3f56-4a4d-9179-00e09d527263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dokter' or . = 'Dokter')]</value>
+      <webElementGuid>0f92d71e-b6a4-4938-bd7f-cf667fba5ae6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

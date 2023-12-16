@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Semua_1</name>
+   <tag></tag>
+   <elementGuidId>17771370-24c9-4406-8dbc-96b39f7c5824</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9be0767d-aa89-4f8f-be06-5c09214dc3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-decoration-none text-nowrap fw-semibold</value>
+      <webElementGuid>eed689d3-f14b-4eb0-865b-3106a07889dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/medicines</value>
+      <webElementGuid>2f7aad43-f781-4917-86f1-2303003e39d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>8f267892-720f-400b-bff5-a728ef2aaf80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;d-flex flex-column gap-4 mx-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-4 col-xxl-3&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 border&quot;]/div[@class=&quot;d-flex flex-row justify-content-between align-items-center mb-4&quot;]/a[@class=&quot;text-decoration-none text-nowrap fw-semibold&quot;]</value>
+      <webElementGuid>bfce201d-c802-41af-be6f-8636d3604343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/div/div[2]/div/div/a</value>
+      <webElementGuid>02d1461f-8485-4ed2-9b82-1c012f168acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Semua')])[2]</value>
+      <webElementGuid>eb05e7d8-2136-4584-bb9a-d7980474ff60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Obat'])[1]/following::a[1]</value>
+      <webElementGuid>3a11ae7d-3954-4239-b6e3-912e188bcfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[9]/following::a[1]</value>
+      <webElementGuid>5a7779aa-0de7-4328-bc68-8c987ad81794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Obat'])[1]/preceding::a[1]</value>
+      <webElementGuid>52dcdb11-8b5b-4f81-b6a1-114f1f2492a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Obat'])[1]/preceding::a[1]</value>
+      <webElementGuid>7e571852-a6cd-4724-9b93-49bc400528b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/medicines')])[2]</value>
+      <webElementGuid>baef9ef5-67c0-40cb-9b17-0a3390f8b8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/a</value>
+      <webElementGuid>96855e77-7a48-4dd6-8f30-03fd67002a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/medicines' and (text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>aa0521ae-5291-4915-acf1-0517fda80da1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

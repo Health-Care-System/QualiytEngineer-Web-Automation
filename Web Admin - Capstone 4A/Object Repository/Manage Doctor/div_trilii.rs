@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_trilii</name>
+   <tag></tag>
+   <elementGuidId>05eef7cd-28f6-4707-8c79-f92cfc2f11ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div/div/div/div[2]/table/tbody/tr/td[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74ae38e0-ca4e-4e40-aaac-a28e97c1681a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex gap-2 align-items-center </value>
+      <webElementGuid>9f856182-67a3-4b28-8adf-db0be314ba26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>trilii</value>
+      <webElementGuid>24e9af65-eca7-4a64-99e2-1eeee71243c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;container-fluid&quot;]/div[@class=&quot;m-3&quot;]/div[@class=&quot;card rounded-4 border&quot;]/div[@class=&quot;card-body bg-light rounded-4 p-4 border-0&quot;]/div[@class=&quot;table-responsive table-wrapper&quot;]/table[@class=&quot;table table-borderless table-striped align-middle&quot;]/tbody[1]/tr[@class=&quot;text-nowrap cursor-pointer&quot;]/td[2]/div[@class=&quot;d-flex gap-2 align-items-center&quot;]</value>
+      <webElementGuid>f3a2a88d-791c-4dd1-926d-21fd95591a3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div/div/div[2]/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>14dcc7c5-7696-44cf-90ba-578b74368e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor STR'])[1]/following::div[1]</value>
+      <webElementGuid>94d4fc59-caf5-4bbc-be2a-4de4430822fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengalaman'])[1]/following::div[1]</value>
+      <webElementGuid>6ac8e31a-f97d-4065-a61f-3efdd3caf7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::div[2]</value>
+      <webElementGuid>824c4a1c-7042-4634-bc11-54173e425def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adududu@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>a195320e-9de8-441e-ba37-3cae42dc8d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>3973df9c-feb0-4f84-936c-3c60b9997337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'trilii' or . = 'trilii')]</value>
+      <webElementGuid>e00f978b-596e-4278-a0c5-21b356ad4062</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

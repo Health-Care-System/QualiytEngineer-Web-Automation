@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create medicine with empty price</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfc37b42-37d5-4ece-baed-6363718b267b</testCaseGuid>
+</TestCaseEntity>

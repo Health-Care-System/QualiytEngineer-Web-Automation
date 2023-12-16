@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ditolak</name>
+   <tag></tag>
+   <elementGuidId>ae4268b8-7662-4a2d-b0a0-0b1b5e87a3af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw-semibold.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/div/div/div[2]/table/tbody/tr/td[8]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4072f4c8-447c-4894-bbf4-356076a77035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-semibold text-danger</value>
+      <webElementGuid>771ba0c2-1ac6-4210-a1ed-0eb0948277da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ditolak</value>
+      <webElementGuid>5ad72522-9fc2-499c-9249-db980350462b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;mx-4 d-flex flex-column gap-4&quot;]/div[@class=&quot;d-flex flex-column gap-3&quot;]/div[@class=&quot;table-responsive rounded-4 p-4 border&quot;]/div[@class=&quot;table-responsive table-wrapper&quot;]/table[@class=&quot;table table-borderless table-striped align-middle&quot;]/tbody[1]/tr[@class=&quot;text-nowrap&quot;]/td[@class=&quot;d-flex justify-content-center&quot;]/div[@class=&quot;px-4 rounded-5&quot;]/p[@class=&quot;fw-semibold text-danger&quot;]</value>
+      <webElementGuid>ef3f45e0-c9b2-4b1a-84e6-13d3c64cccbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div/div/div[2]/table/tbody/tr/td[8]/div/p</value>
+      <webElementGuid>e197d16e-e4f2-49c4-aa78-d414465497f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link'])[1]/following::p[1]</value>
+      <webElementGuid>28914809-c5ef-4c16-bd0a-12e01fe41a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 79.000'])[1]/following::p[1]</value>
+      <webElementGuid>1740cd66-4c4d-4d3c-a9f5-151a1a4d4923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='manual transfer bri'])[2]/preceding::p[1]</value>
+      <webElementGuid>3a6088fe-a6a4-4fbb-b510-5e4f8e716b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 79.000'])[2]/preceding::p[1]</value>
+      <webElementGuid>8f572a5d-d68b-4a1e-ad81-78725720ced8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ditolak']/parent::*</value>
+      <webElementGuid>9f67e37b-b726-4ecc-a730-ba904966d897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/p</value>
+      <webElementGuid>8f17d4f1-15f7-4d5a-a27f-19665fbf7b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ditolak' or . = 'Ditolak')]</value>
+      <webElementGuid>a02138ad-87b1-466d-9c92-dc9173546254</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

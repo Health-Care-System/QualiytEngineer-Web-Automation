@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create medicine with empty stock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aadf1f11-06c2-4acd-98ea-0f13367d66e9</testCaseGuid>
+</TestCaseEntity>

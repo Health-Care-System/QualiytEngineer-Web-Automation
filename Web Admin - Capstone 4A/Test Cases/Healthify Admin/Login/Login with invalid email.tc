@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b437aab-03a1-4593-8f27-e942d9e14eca</testCaseGuid>
+</TestCaseEntity>
