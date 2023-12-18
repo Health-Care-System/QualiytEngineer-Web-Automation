@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Artikel berhasil diedit</name>
+   <tag></tag>
+   <elementGuidId>74c191a2-bc64-4535-bacd-dea2ebbd6be9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bbdddded-aca4-4b7a-a2dc-fadd3815480a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>27a7e9c9-4097-41bb-b4d2-5c9b1a0d43be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toastify__toast Toastify__toast-theme--light Toastify__toast--success Toastify__toast--close-on-click Toastify--animate Toastify__bounce-exit--bottom-left</value>
+      <webElementGuid>88a802b0-95f2-4eb8-97b7-d779c54592da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Artikel berhasil diedit!</value>
+      <webElementGuid>095107c4-9a75-4668-beeb-4f1ac6eac7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)</value>
+      <webElementGuid>2effdc60-4a4c-46fa-9dc5-c2edbf9a89c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='2']</value>
+      <webElementGuid>a288a6da-3a16-4755-bd5c-c8d4f75d12e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div/div</value>
+      <webElementGuid>83c48edd-e986-45cb-8e4e-dd79c6d1d3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[1]/following::div[3]</value>
+      <webElementGuid>9985c0f8-1a02-4e33-b2c3-80c05c3963bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Artikel'])[2]/following::div[6]</value>
+      <webElementGuid>58437138-6c43-4fc1-b792-5125f8c6a2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test2'])[1]/preceding::div[6]</value>
+      <webElementGuid>b3b040c0-8b16-4869-9f2e-d8b7fc284609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>3d37fc2f-cc8a-4259-9a26-a586fadf696f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '2' and (text() = 'Artikel berhasil diedit!' or . = 'Artikel berhasil diedit!')]</value>
+      <webElementGuid>91808ea9-d0f0-445c-b5b8-295b8fc4c862</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

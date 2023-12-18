@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>c50d2589-4304-4640-9e60-f3ddf0de45b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/aside/ul/li/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.false.d-flex.navBtn.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e9461bd-36e3-4aeb-bc15-01ab51305788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>false d-flex navBtn btn</value>
+      <webElementGuid>e47d5680-4417-44d7-bde9-b49ae8904e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>ac4eb4a2-6046-4fa6-b4af-b941cf0e6811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;d-none d-md-flex&quot;]/aside[@class=&quot;sidebar&quot;]/ul[@class=&quot;list-group gap-2 mt-4&quot;]/li[@class=&quot;list-unstyled&quot;]/a[@class=&quot;text-decoration-none&quot;]/div[@class=&quot;false d-flex navBtn btn&quot;]</value>
+      <webElementGuid>c81dbb2a-b485-4080-afd4-bf34e6690dae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/aside/ul/li/a/div</value>
+      <webElementGuid>010a6133-2cf4-4d88-8a81-e34266a8b507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Fadlilah'])[1]/following::div[1]</value>
+      <webElementGuid>00ca937e-a21b-4b32-afac-b3effdfc878d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Pasien'])[1]/preceding::div[1]</value>
+      <webElementGuid>3d7b6d84-dd56-4c66-b1fa-d36be416c4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Pasien'])[1]/preceding::div[2]</value>
+      <webElementGuid>c413fd79-6f66-428d-8bb1-019a0b011007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>4e48154b-240c-4b02-91b8-aa93f207615a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>ae07480c-17cf-4fd9-b529-e9bdd3481b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>d663a6f3-bb1d-43dd-bff8-cf6ba40d59bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

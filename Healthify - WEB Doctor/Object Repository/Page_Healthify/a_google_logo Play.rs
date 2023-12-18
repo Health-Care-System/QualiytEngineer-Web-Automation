@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_google_logo Play</name>
+   <tag></tag>
+   <elementGuidId>168411fc-47c5-46d3-89cf-92ba4cf244c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.f0UV3d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//c-wiz[@id='kO001e']/header/nav/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3975fe38-925e-4ed4-a51f-47c48037ee20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/store/games</value>
+      <webElementGuid>11a66e91-47d2-448c-88da-0ed88dbc3f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Google Play logo</value>
+      <webElementGuid>29d7a9b9-cf16-4756-87f8-d02659ac11fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f0UV3d</value>
+      <webElementGuid>bf8768b3-9524-4f55-b74c-e702fed34b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>google_logo Play</value>
+      <webElementGuid>5591a6dc-37f1-40ca-bb6c-26376b34b609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kO001e&quot;)/header[@class=&quot;S3WLMd&quot;]/nav[@class=&quot;oPjgQb&quot;]/a[@class=&quot;f0UV3d&quot;]</value>
+      <webElementGuid>3bf888f2-66e8-4d20-99d2-a7cc39f189e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//c-wiz[@id='kO001e']/header/nav/a</value>
+      <webElementGuid>1e168409-5a58-4b16-91d0-59ff7bccddee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Games'])[1]/preceding::a[1]</value>
+      <webElementGuid>af30932f-9371-4c71-a62c-b6a9ac46f95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::a[1]</value>
+      <webElementGuid>afc3141f-b8f9-4b3a-a183-67166d38f2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/store/games')]</value>
+      <webElementGuid>f7bd2f78-1cc7-4fcf-8dbd-44dfa31ceacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>d28a1c4a-98a5-49d4-99e3-42c2ba067d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/store/games' and (text() = 'google_logo Play' or . = 'google_logo Play')]</value>
+      <webElementGuid>8f864bce-9bc7-4682-ae1c-9259b95dbc15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

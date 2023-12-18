@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fadlilah Azizahtest425 pm</name>
+   <tag></tag>
+   <elementGuidId>396f8a57-e341-4c5d-b947-e46487b8ec21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/section/section[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chat-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e496f07b-7e3e-4f63-96c7-6a13fcc6630f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chat-list</value>
+      <webElementGuid>feb22592-0048-41f2-b597-a698714eb5d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fadlilah Azizahtest4:25 pm</value>
+      <webElementGuid>51e9df43-233d-4e50-be55-5b0f17937098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;d-flex flex-row w-100&quot;]/section[@class=&quot;chatWrapper mt-0 px-0 gap-4 chat-userlist__wrapper&quot;]/section[@class=&quot;chat-userlist-wrapper px-3&quot;]/div[@class=&quot;chat-list&quot;]</value>
+      <webElementGuid>a7797008-05ee-4d8b-ab99-fdc2be6308ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/section/section[2]/div</value>
+      <webElementGuid>67ad8216-7830-40eb-a7bd-96e9dbdf0b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terkini'])[1]/following::div[1]</value>
+      <webElementGuid>0e74915f-89b8-409e-8f88-20c6fabdea52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum dibaca'])[1]/following::div[1]</value>
+      <webElementGuid>5c4290d9-fde3-4948-aa86-e1f35151df53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fadlilah Azizah'])[2]/preceding::div[3]</value>
+      <webElementGuid>7a591ef6-6571-40d7-98c0-d02925226038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div</value>
+      <webElementGuid>44c6f68b-857f-4b24-8afa-a76a8c236fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Fadlilah Azizahtest4:25 pm' or . = 'Fadlilah Azizahtest4:25 pm')]</value>
+      <webElementGuid>c28737a7-64a5-492b-ad17-74abd89ab165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

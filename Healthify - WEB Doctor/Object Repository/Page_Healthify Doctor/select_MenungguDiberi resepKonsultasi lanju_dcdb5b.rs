@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MenungguDiberi resepKonsultasi lanju_dcdb5b</name>
+   <tag></tag>
+   <elementGuidId>374f70be-f2a5-487b-9336-fb4a34982f20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;status&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d8cd2211-c0b8-4e5f-8e41-ca53afcd0f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>f2d9cbad-63f7-4dfc-8796-bdd465f63c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select undefined</value>
+      <webElementGuid>cbefc5f0-80bc-4acf-82ad-3ae5f4499401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MenungguDiberi resepKonsultasi lanjutanDirujuk</value>
+      <webElementGuid>24b7e054-9667-40ce-86c4-c0ad1194a348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;p-2 w-100 patient-container&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-lg&quot;]/div[@class=&quot;modal-content px-4 pb-5 rounded-5 border-0&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col d-grid gap-2&quot;]/div[2]/select[@class=&quot;form-select undefined&quot;]</value>
+      <webElementGuid>9defa2f2-ddf0-4438-9360-03749ac408c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='status']</value>
+      <webElementGuid>315a913e-0e7e-472c-b128-c488f4dc23d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/div[4]/div/div/div[2]/div[2]/div/div[2]/select</value>
+      <webElementGuid>4c46527c-edb6-4253-bbc4-c1a501e2fd2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::select[1]</value>
+      <webElementGuid>adee73a9-099c-4f12-8370-6b64a6ad50aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diagnosa'])[1]/following::select[1]</value>
+      <webElementGuid>06d3e385-697b-4870-a620-77b8ffae45f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::select[1]</value>
+      <webElementGuid>e4f0797d-c387-4aa9-9f9f-cb972bd522e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::select[1]</value>
+      <webElementGuid>93d94bc3-d60e-40ce-be78-b19d1cf2fac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>cb137aa6-81bc-4dc9-b2c8-9588b485ef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and (text() = 'MenungguDiberi resepKonsultasi lanjutanDirujuk' or . = 'MenungguDiberi resepKonsultasi lanjutanDirujuk')]</value>
+      <webElementGuid>b2c51eef-8739-4f39-87f6-11e42eea4107</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

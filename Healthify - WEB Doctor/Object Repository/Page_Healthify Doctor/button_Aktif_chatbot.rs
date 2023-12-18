@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aktif_chatbot</name>
+   <tag></tag>
+   <elementGuidId>4365a320-e492-45a3-936a-c8621ed9e7be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e53cc43f-87d5-4715-b4dd-dd4da16e4358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cff49641-55f9-43f1-9c9a-601720ba37a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn p-0</value>
+      <webElementGuid>4aa6ad9f-214b-4647-bd1c-09a2e6ac7726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/header[@class=&quot;navbar p-0&quot;]/nav[@class=&quot;navbar-content&quot;]/div[@class=&quot;d-flex flex-row-reverse position-relative  flex-md-column pe-md-0&quot;]/div[@class=&quot;d-flex align-items-center gap-4&quot;]/button[@class=&quot;btn p-0&quot;]</value>
+      <webElementGuid>a4794c90-4666-4e28-b900-49ba9cdcba6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>1e9a4d0b-f8f6-4419-b5e9-219240780257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/header/nav/div[2]/div/button[2]</value>
+      <webElementGuid>bde5b166-6961-4573-ab50-60428b6f50da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[1]/following::button[2]</value>
+      <webElementGuid>8870b658-19ae-46fe-aafa-cf6a651cd496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::button[2]</value>
+      <webElementGuid>9afb65d6-dd4d-4a0e-b8f3-dd5574dbc7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pasien'])[1]/preceding::button[2]</value>
+      <webElementGuid>36c1049c-04cf-4d03-ac33-7b32e725a88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id Pasien'])[1]/preceding::button[2]</value>
+      <webElementGuid>46c2c092-7302-4382-8227-c6cff873e190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>5274ed2b-c42e-4daa-a12d-5cc3b3fcf57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>a0844ef2-0aac-4b27-8a03-01c10d09526c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

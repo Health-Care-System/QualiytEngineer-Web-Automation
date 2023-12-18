@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create article with empty tittle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8545a5a6-3ff1-43ce-9126-a4704afd0707</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_(Ubah)</name>
+   <tag></tag>
+   <elementGuidId>64d7f88f-958a-49b2-96b2-ac719886e6ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescriptionModal']/div[4]/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-primary.m-0.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>99b26d45-88f4-471e-a77e-8806e7315618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary m-0 cursor-pointer</value>
+      <webElementGuid>322d6b35-c726-404e-8195-3b083c2565a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(Ubah)</value>
+      <webElementGuid>68663c4b-653b-4309-b1a0-3c72b29dd991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescriptionModal&quot;)/div[@class=&quot;d-flex flex-row justify-content-between w-100&quot;]/div[@class=&quot;d-flex flex-row align-items-start fw-semibold gap-1&quot;]/p[@class=&quot;text-primary m-0 cursor-pointer&quot;]</value>
+      <webElementGuid>95924ea8-d4b3-4615-a327-6f4ac8bfddc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescriptionModal']/div[4]/div/p[2]</value>
+      <webElementGuid>42f0ba18-792c-439c-8e0c-f3f210764776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panadol'])[2]/following::p[1]</value>
+      <webElementGuid>93a9c6da-a1dc-4a04-aefa-f2145218b68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Obat'])[1]/following::p[38]</value>
+      <webElementGuid>cbf3368d-9235-469c-83d5-55a176dfe0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/preceding::p[1]</value>
+      <webElementGuid>a69f9381-eefb-4b9b-bc35-fbfe1b635180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(Ubah)']/parent::*</value>
+      <webElementGuid>da55df47-f09b-460c-8393-b955a121078d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/p[2]</value>
+      <webElementGuid>ad65d832-38fa-4bee-8332-416526bc3568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '(Ubah)' or . = '(Ubah)')]</value>
+      <webElementGuid>9ddcfc5d-7eb8-47b0-beec-d6cbee48d5b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

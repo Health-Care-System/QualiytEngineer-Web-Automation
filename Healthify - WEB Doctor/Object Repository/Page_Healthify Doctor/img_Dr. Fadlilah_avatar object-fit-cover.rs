@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Dr. Fadlilah_avatar object-fit-cover</name>
+   <tag></tag>
+   <elementGuidId>205c4fa9-a33e-4630-9611-c12dbff0e28c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/aside/div/figure/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.avatar.object-fit-cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>63762c96-fd68-4d25-8bb9-acbe98e027f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/maleDoc-d5jiVmNV.jpg</value>
+      <webElementGuid>901a4001-c330-4fca-b48b-bf37ed8f52c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>avatar object-fit-cover</value>
+      <webElementGuid>d490480c-befe-430a-b2eb-04746398978a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Profile Picture</value>
+      <webElementGuid>12fc9a5b-d625-4ec5-8a4e-3289fb7d1226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>d1a31a12-4740-42c4-902c-215255452007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>3889425d-0fc2-478a-9d8b-b29d42dd7da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;d-none d-md-flex&quot;]/aside[@class=&quot;sidebar&quot;]/div[1]/figure[@class=&quot;figure d-flex&quot;]/img[@class=&quot;avatar object-fit-cover&quot;]</value>
+      <webElementGuid>ecbb9589-6a11-44e9-a2af-b718910b36a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/aside/div/figure/img</value>
+      <webElementGuid>3578506a-302c-4604-a7c8-9e0c94bf4b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Profile Picture']</value>
+      <webElementGuid>50c2f3ce-18e2-44a7-81eb-f0680ba08661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/img</value>
+      <webElementGuid>353daa3e-88f8-4eff-bad7-13bd0d18f325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/maleDoc-d5jiVmNV.jpg' and @alt = 'Profile Picture']</value>
+      <webElementGuid>2544fcc3-6d6a-4f80-a7b8-c69db3420e55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

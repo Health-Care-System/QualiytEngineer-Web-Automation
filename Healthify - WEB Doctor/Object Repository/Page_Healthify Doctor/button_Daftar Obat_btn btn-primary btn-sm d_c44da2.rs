@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar Obat_btn btn-primary btn-sm d_c44da2</name>
+   <tag></tag>
+   <elementGuidId>da3d3ec8-1c94-4687-aeae-97a03177d723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00431e3f-1672-4919-9780-8b69bf0233b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>23e76335-d898-4e85-a397-32d076a9af91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm d-flex justify-content-center rounded-5</value>
+      <webElementGuid>d564e737-7d7a-4c17-a745-453272a9e2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescriptionModal&quot;)/div[@class=&quot;row px-2 overflow-y-scroll&quot;]/div[@class=&quot;col-6 col-lg-4 col-xl-2 mb-4&quot;]/div[@id=&quot;medicineCard&quot;]/div[@class=&quot;d-flex flex-column gap-1&quot;]/div[@class=&quot;d-flex flex-row justify-content-between gap-2 align-items-center&quot;]/button[@class=&quot;btn btn-primary btn-sm d-flex justify-content-center rounded-5&quot;]</value>
+      <webElementGuid>9eaff199-1191-43e4-a2fe-0fc8748d0ee3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>cb0542c1-2f70-439a-955b-e630204ca63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='medicineCard']/div/div/button)[2]</value>
+      <webElementGuid>15a2b17f-78e2-4ce3-9f35-1cdc2b9f35ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Obat'])[1]/following::button[5]</value>
+      <webElementGuid>95431aa7-62df-4fe2-b67f-f57729cd3020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[6]/following::button[5]</value>
+      <webElementGuid>68bcb412-99e7-46ec-90b9-aefda9948dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>233bf076-fc21-43bb-91c9-712dd9f30455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7dad5438-3acd-46ba-bf81-58919eccf3d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

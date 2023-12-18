@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Lupa Password</name>
+   <tag></tag>
+   <elementGuidId>a124e38d-9587-4adf-9ed6-33b05fd0074e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/form/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.fw-bold.text-primary.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cf9281e3-6005-44e4-9129-84c2b972f177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bold text-primary text-center</value>
+      <webElementGuid>1945e817-46fc-49a5-a9f0-7efe4cfbe1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lupa Password?</value>
+      <webElementGuid>5bf0e142-2434-4578-9515-4a7808c77574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-vh-100 px-5&quot;]/div[@class=&quot;d-flex min-vh-100 flex-column flex-md-row justify-content-evenly align-items-center&quot;]/div[2]/form[1]/div[@class=&quot;mb-3&quot;]/h2[@class=&quot;fw-bold text-primary text-center&quot;]</value>
+      <webElementGuid>12d83349-e471-45ff-a9c5-a29d967d8cd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/form/div/h2</value>
+      <webElementGuid>b38b0fdd-87b8-4023-ba31-a37049aa369a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4e8a2dea-a2ba-4f1e-b67b-d2097639b8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke halaman login?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c0f956d6-0960-40d1-9faa-64fe2f956858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lupa Password?']/parent::*</value>
+      <webElementGuid>dea5ad2f-1543-4003-a9e5-ab73542185a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>bf500de8-ab51-4655-af45-a17e031762ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Lupa Password?' or . = 'Lupa Password?')]</value>
+      <webElementGuid>c3c13d4e-4c92-4398-ad00-b5a643ac0906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

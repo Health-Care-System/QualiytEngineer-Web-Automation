@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Artikel (1)</name>
+   <tag></tag>
+   <elementGuidId>8fc3cf01-c622-47b6-8757-85ed09f7efd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/section/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.text-white.align-items-center.gap-2.d-flex.flex-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52164502-7364-4d95-8fea-4a73ab9d7f2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary text-white align-items-center gap-2 d-flex flex-row</value>
+      <webElementGuid>806fc9d7-ec5e-4c58-8c3f-438431df29ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/articles/create</value>
+      <webElementGuid>905f7c23-2d60-4983-b504-1fda8646406c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Artikel</value>
+      <webElementGuid>05b1dae5-9926-4ee8-8c13-fa7821c0c1fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;drawer-content&quot;]/section[@class=&quot;d-flex flex-row justify-content-between mx-4 my-4&quot;]/a[@class=&quot;btn btn-primary text-white align-items-center gap-2 d-flex flex-row&quot;]</value>
+      <webElementGuid>6f68dbfd-b826-42d7-84f0-22ae08a7417a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/section/a</value>
+      <webElementGuid>00e6de8a-a3d6-4da4-889b-cb680c7ac6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[1]/following::a[1]</value>
+      <webElementGuid>a0c1f4a3-ee25-4e11-8a39-c4d287232e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Artikel'])[2]/following::a[1]</value>
+      <webElementGuid>0426f25e-1a50-4969-9be6-2620efe97480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengenal Stunting dan Gizi Buruk'])[1]/preceding::a[1]</value>
+      <webElementGuid>ccaabc7b-e093-4c32-aa40-0ae52dcc8989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pentingnya Menjaga Kesehatan Mental pada Remaja'])[1]/preceding::a[2]</value>
+      <webElementGuid>c9a0a6b5-ef56-4f1b-81c8-117e3f301683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/articles/create')]</value>
+      <webElementGuid>f3ab6156-8d91-4ba0-9790-d0df123458c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a</value>
+      <webElementGuid>e565c557-eb0e-4923-a765-56da0213a8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/articles/create' and (text() = 'Tambah Artikel' or . = 'Tambah Artikel')]</value>
+      <webElementGuid>0d994191-d1f6-4e9e-a12f-f0e7984035ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

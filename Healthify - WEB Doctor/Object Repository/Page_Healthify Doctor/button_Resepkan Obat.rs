@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Resepkan Obat</name>
+   <tag></tag>
+   <elementGuidId>7482bbde-33a1-4801-a0f2-fc8eb921e721</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.d-flex.p-0.flex-row.align-items-center.gap-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>021cc38f-0eef-4fc0-827e-bc79fa9f5f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b0c64ae-8d43-4ae0-bec4-5bed5130943e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn d-flex p-0 flex-row align-items-center gap-2</value>
+      <webElementGuid>8178ed29-4652-418d-b45a-03e0dde7e50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resepkan Obat</value>
+      <webElementGuid>eb016b3c-a1f7-44c9-a114-0f943c57c86c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;h-100 d-flex flex-row main-layout&quot;]/div[@class=&quot;drawer-content&quot;]/div[@class=&quot;d-flex flex-row w-100&quot;]/section[@class=&quot;chat-body__wrapper&quot;]/section[@class=&quot;chat-body-wrapper position-relative&quot;]/div[@class=&quot;sticky-bottom z-1&quot;]/div[@class=&quot;bg-white p-2 d-flex flex-column gap-1 shadow rounded-2 position-absolute&quot;]/button[@class=&quot;btn d-flex p-0 flex-row align-items-center gap-2&quot;]</value>
+      <webElementGuid>cb00e3cc-2c20-4a60-b973-e456168fcce3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>bd6f6d89-4c02-45c0-b09d-574aa7fd61a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/section[2]/section/div[3]/div/button</value>
+      <webElementGuid>1fed7e9b-654a-4c15-9b6d-74e13b5fa388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gambar'])[1]/following::button[1]</value>
+      <webElementGuid>329e605d-891c-43cb-9964-47a438402c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[6]/following::button[1]</value>
+      <webElementGuid>f41e85db-4b85-42b3-ab59-30cd17e844de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>b1c82cf3-c2cd-4e78-92a1-53d384588d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Resepkan Obat' or . = 'Resepkan Obat')]</value>
+      <webElementGuid>7bd32b29-e946-4030-9cb2-6f9d06ba4cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[3]/following::button[1]</value>
+      <webElementGuid>4728357e-f68a-417e-9af7-925f246f9f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
